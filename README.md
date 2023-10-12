@@ -9,3 +9,7 @@
    -Platform Metroid Like
 
 Proyecto integrador- UDC MX
+
+<h1>IDEA DE MAPEADO, EXAMPLE</h1>
+</div>
+<img src="https://i.imgur.com/76mKF4e.png">
